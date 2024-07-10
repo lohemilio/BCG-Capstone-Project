@@ -78,7 +78,7 @@ For a comprehensive understanding of the project, including detailed insights an
 - Mislav Ilijas
 
 ## Contact
-For any questions or further information, please contact [Emilio Lopez](mailto:emilio@example.com).
+For any questions or further information, please contact [Sci-Tech](mailto:sci-tech@ie.edu).
 
 ---
 
