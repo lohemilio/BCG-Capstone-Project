@@ -68,7 +68,7 @@ Open and run each Jupyter notebook in the following order to replicate the analy
 - `Demand_Prediction.ipynb`
 
 ## Additional Information
-For a comprehensive understanding of the project, including detailed insights and recommendations, please refer to the [project report](path/to/report).
+For a comprehensive understanding of the project, including detailed insights and recommendations, please refer to the [project report](https://docs.google.com/document/d/1VzAf4yzGz-s7PsmJ7Whjv9uam2sMxhBEzyyfXV3O1lE/edit?usp=sharing).
 
 ## Contributors
 - Emilio Lopez
